@@ -1,0 +1,5 @@
+- Zoomolás
+- Hatékonyabb kitöltés
+- Radírméretezés/körforma
+- Élénkebb ikonok
+- Látványosabb egérkurzor
